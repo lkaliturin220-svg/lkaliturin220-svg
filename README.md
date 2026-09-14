@@ -73,8 +73,8 @@ SPA с лечебным меню на 4 недели: рецепты, списо
 ## 📊 Статистика
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lkaliturin220-svg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaliturin220-svg&layout=compact&theme=github_dark&hide_border=true" alt="Top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lkaliturin220-svg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lkaliturin220-svg&layout=compact&theme=github_dark&hide_border=true" alt="Top langs" />
 </p>
 
 ---
